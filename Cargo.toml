@@ -1,0 +1,15 @@
+[package]
+name = "spi3derr"
+version = "26.11.27001"
+edition = "2021"
+description = "spi3der in Rust: a 3D workshop for the terminal, the browser and the desktop (name reserved, first release coming)"
+license = "MIT"
+authors = ["Vívó Péter"]
+repository = "https://github.com/Pengeszikra/spi3derr"
+homepage = "https://tuskek-gyokerek.petervivo.chatgpt.site/"
+readme = "README.md"
+keywords = ["3d", "terminal", "3draft", "spider-paint", "modeling"]
+categories = ["command-line-utilities", "graphics"]
+include = ["src/**", "Cargo.toml", "README.md", "LICENSE"]
+
+[dependencies]
