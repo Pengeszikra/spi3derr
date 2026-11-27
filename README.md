@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://tuskek-gyokerek.petervivo.chatgpt.site/">
-    <img src="https://raw.githubusercontent.com/Pengeszikra/spi3derr/main/assets/tgy-logo.webp" alt="Tüskék és Gyökerek" width="220">
-  </a>
-</p>
-
 # spi3derr
 
 **spi3der in Rust**: one program for the terminal, the browser and the desktop. A 3D workshop for
@@ -28,6 +22,12 @@ spi3derr
 
 spi3derr is made in [Tüskék és Gyökerek](https://tuskek-es-gyokerek.vercel.app/?lang=en), an independent software
 workshop: 3Draft, HEXAW, Spider Paint, Five Percent and spi3der. Fewer dependencies, more room to create.
+
+<p align="center">
+  <a href="https://tuskek-gyokerek.petervivo.chatgpt.site/">
+    <img src="https://raw.githubusercontent.com/Pengeszikra/spi3derr/main/assets/tgy-logo.webp" alt="Tüskék és Gyökerek" width="220">
+  </a>
+</p>
 
 ## License
 
