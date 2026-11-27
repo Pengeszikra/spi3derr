@@ -22,10 +22,11 @@ spi3derr
 ## Contest entries
 
 - [spid3err--opus](https://github.com/Pengeszikra/spid3err--opus)
+- [spid3err--gpt6](https://github.com/Pengeszikra/spid3err--gpt6)
 
 ## Tüskék és Gyökerek
 
-spi3derr is made in [Tüskék és Gyökerek](https://tuskek-gyokerek.petervivo.chatgpt.site/), an independent software
+spi3derr is made in [Tüskék és Gyökerek](https://tuskek-es-gyokerek.vercel.app/?lang=en), an independent software
 workshop: 3Draft, HEXAW, Spider Paint, Five Percent and spi3der. Fewer dependencies, more room to create.
 
 ## License
